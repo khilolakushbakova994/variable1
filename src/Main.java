@@ -49,7 +49,7 @@ public class    Main {
         var more = secondBoxer - firstBoxer;
         System.out.println( "Один тяжелее другого на   " + more + "   кг");
         var bigger = secondBoxer % firstBoxer;
-        System.out.println( "Разница между ними   " + bigger + "  кг");
+        System.out.println( "Разница между борцами   " + bigger + "  кг");
 
 
 
@@ -63,7 +63,7 @@ public class    Main {
         System.out.println( "Если в компании работает   " + personalAmount + "  человек, то всего ");
 
         var totalTime = personalAmount * hourPerperson;
-        System.out.println( totalTime + "  часов работы может быть поделено между сотрудниками");
+        System.out.println( totalTime + "   часов работы может быть поделено между сотрудниками    ");
     }
 
         }
